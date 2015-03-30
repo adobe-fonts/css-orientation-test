@@ -8,7 +8,7 @@ These fonts include 2,050 glyphs (CIDs 0 through 2049), and map 1,111,998 Unicod
 
 The images below show the functional glyphs in *CSS Half-Width Orientation Test* and *CSS Full-Width Orientation Test* (CID+1, the first of the 2,048 horizontal glyphs, and CID+2049, the single vertical glyph, are shown):
 
-![alt text](https://github.com/adobe-fonts/css-orientation-test/raw/master/src/images/half-width-hv-320.jpg "half-width") ![alt text](https://github.com/adobe-fonts/css-orientation-test/raw/master/src/images/full-width-hv-320.jpg "full-width")
+![alt text](https://raw.githubusercontent.com/adobe-fonts/css-orientation-test/master/images/half-width-hv-320.jpg "half-width") ![alt text](https://raw.githubusercontent.com/adobe-fonts/css-orientation-test/master/images/full-width-hv-320.jpg "full-width")
 
 Note that within each OpenType font the vertical advance of the vertical glyph is one-half that of the horizontal advance of the horizontal glyphs, whose purpose is so that testing-automation scripts can more easily detect the glyph orientation and thus whether the 'vert' GSUB was applied correctly by measuring the metrics of the rendered text.
 
