@@ -1,12 +1,12 @@
 StartFontMetrics 4.1
-Comment Copyright 2013 Adobe Systems Incorporated. All Rights Reserved.
-Comment Creation Date: Sat Jun  1 06:53:53 2013
+Comment Copyright 2015 Adobe Systems Incorporated. All Rights Reserved.
+Comment Creation Date: Sun Mar 29 16:18:29 2015
 MetricsSets 2
 FontName CSSHWOrientationTest
 Weight Regular
 FontBBox 25 -120 975 880
-Version 1.001
-Notice Copyright 2013 Adobe Systems Incorporated. All Rights Reserved.
+Version 1.002
+Notice Copyright 2013, 2015 Adobe Systems Incorporated (http://www.adobe.com/).
 CharacterSet Adobe-Identity-0
 Characters 2050
 IsBaseFont true
