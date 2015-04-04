@@ -1,11 +1,14 @@
 # Command lines for building CSS Orientation Test
 #
-# Version 2015-03-29
+# Version 2015-04-04
 #
 # The following AFDKO "makeotf" command line builds the OpenType/CFF
 # fonts in their respective directories:
 
-makeotf -f cidfont.ps -ff features -fi cidfontinfo -mf FontMenuNameDB -r -ch ../UnicodeAll-UTF32-H
+makeotf -f cidfont.ps -ff features -fi cidfontinfo -mf FontMenuNameDB -r -ch ../UnicodeAll-UTF32-H -stubCmap4
+
+# Note that the "-stubCmap4" command-line option was just added to the
+# "makeotf" tool, and will be available in the next release of AFDKO.
 
 # To add the "stub" 'DSIG' table to the OpenType/CFF font, the
 # following AFDKO command line is used:
