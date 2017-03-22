@@ -30,4 +30,4 @@ In this repository, all necessary files are in place for building the OpenType/C
 
 ## Getting Involved
 
-Send suggestions for changes to the CSS Orientation Test project maintainer, [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub] CSS Orientation Test), for consideration.
+Send suggestions for changes to the CSS Orientation Test project maintainer, [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20CSS%20Orientation%20Test), for consideration.
